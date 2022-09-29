@@ -1,1 +1,1 @@
-# just learning bash 
+# just learning bash scripting 
