@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Hello Bash!";
+
 read -p "Please enter your first and last name: " firstName lastName;
 
-echo "Hello ${firstName} ${lastName}, welcome to bash scripting";
+echo "Hi ${firstName} ${lastName}, welcome to bash scripting";
